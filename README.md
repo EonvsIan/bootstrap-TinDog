@@ -22,3 +22,11 @@ I created this website to practice the concepts taught in my web full-stack cour
 ##🌈 Acknowledgements
 - Bootstrap: For the responsive layout.
 - Icons: From Bootstrap Icons.
+
+## 📜 license
+This project is open-source and created for learning purposes. Feel free to explore, contribute, or modify it for your own use. Fork it, suggest improvements, or create a pull request. 🚀
+
+## ✉️ Contact
+Have questions or suggestions? Feel free to reach out:
+
+Email: [yankunzhang9214@gmail.com]
